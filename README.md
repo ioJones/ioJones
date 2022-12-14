@@ -1,17 +1,35 @@
 # 👋 Hi, I’m @ioJones 
 
 
-- I’m interested in web development, data science and game developmemt
-- I’m currently learning Javascript on a path to become a web developer.
+- I’m a music composer on a learning path to become a web developr.
+- I’m currently learning Javascript.
 - I’m looking to collaborate on web projects to further build on my knowledge and portfolio.
 
+</br>
 
-### My Tech Stack
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iojones&layout=compact)](https://github.com/iojones/github-readme-stats)
+[Twitter](https://twitter.com/grayxjones)
+[Instagram](https://instagram.com/grayxjones)
+[LinkedIn](https://linkedin.com/in/grayxjones)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iojones&show_icons=true)
 
-## [Twitter](https://twitter.com/grayxjones) [Instagram](https://instagram.com/grayxjones)  [LinkedIn](https://linkedin.com/in/grayxjones)
+
+# My Stats
+
+###
+
+![ioJones's GitHub stats](https://github-readme-stats.vercel.app/api?username=iojones&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iojones&layout=compact&theme=transparent)](https://github.com/iojones/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
 
 
 

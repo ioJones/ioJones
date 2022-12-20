@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @ioJones 
+# 👋 Hi, I’m Jones 
 
 
 - I’m a music composer on a learning path to become a web developr.
